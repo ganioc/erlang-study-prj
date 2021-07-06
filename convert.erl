@@ -1,3 +1,5 @@
+%% This is a comments.
+
 -module(convert).
 
 -export([mps_to_kph/1, mps_to_mph/1]).
